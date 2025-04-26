@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:voonadhanvanth183@gmail.com"><img src="https://img.shields.io/badge/📧-Email-blue?style=flat-square" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/dhanvanth-voona" target="_blank"><img src="https://img.shields.io/badge/🔗-LinkedIn-blue?style=flat-square" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/dv-63192b18b/" target="_blank"><img src="https://img.shields.io/badge/🔗-LinkedIn-blue?style=flat-square" alt="LinkedIn"></a>
   <a href="https://github.com/dhanvanth342" target="_blank"><img src="https://img.shields.io/badge/🐙-GitHub-blue?style=flat-square" alt="GitHub"></a>
 </p>
 
