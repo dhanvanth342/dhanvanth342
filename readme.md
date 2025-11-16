@@ -14,13 +14,13 @@
 
 ## 🎯 Currently
 - Seeking **full-time** opportunities as a **Data Scientist** or **AI/ML Engineer**  
-- 📍 Based in Chicago, IL
+- 📍 Based in Jersey City, NJ
 
 ---
 
 ## 📖 About Me
 - 🎓 Master of Data Science (Illinois Institute of Technology, May 2025)  
-- 💼 **1.5 years** internship in NLP, Computer Vision & LLMs  
+- 💼 **2.5 years** internship in NLP, Computer Vision & LLMs  
 - 📊 **1 year** experience in Data Analysis & Machine Learning  
 - 🤹‍♂️ Strong multi-tasker—daily meditation keeps me focused & adaptable  
 
